@@ -5,6 +5,7 @@
                  [org.clojure/clojurescript "0.0-1535"]
                  [compojure "1.1.3"]
                  [ring/ring-jetty-adapter "1.1.6"]
+                 [org.clojure/google-closure-library "0.0-1376-2"]
                  #_[jayq "0.2.0"]]
   :source-paths ["src/clj"]
   :plugins [[lein-cljsbuild "0.2.9"]]
